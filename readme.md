@@ -3,7 +3,8 @@
 
 LICENSE: [MIT](./license.md)
 
-![](./git.png)
+![git-logo](./git.png)
+
 ---
 
 ### Содержание:
